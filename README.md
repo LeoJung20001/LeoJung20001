@@ -1,4 +1,4 @@
-## Hi, call me Leonardo Jung
+## Hi, call me Leonardo Jung!
 
 Mobile Developer focused on React Native. Extensive mobile development experience also in Flutter,Kotlin, Python and AndroidStudio(Java). With knowledge in cyber security and participation in several IT related projects. Ex-member of the armed forces, where I worked in the IT administrative area and as intelligence assistant. Currently I work at Elastri Engenharia, as an IT assistant.
 
