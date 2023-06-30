@@ -1,6 +1,6 @@
 ## Hi, call me Leonardo Jung!
 
-Mobile Developer. With experience in React Native, Python and AndroidStudio(Java and Kotlin). With knowledge in cyber security and participation in several IT related projects. Ex-member of the armed forces, where I worked in the IT administrative area and as an intelligence assistant. Currently working at Elastri Engenharia, as an IT assistant.
+As a Junior IT Analyst who embarked on a journey of technology exploration at the age of 12, I possess a solid foundation in cybersecurity, hardware, programming, mobile development, and IoT.
 
 
 
